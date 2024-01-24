@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2e316ee-0efd-409f-8c15-025ee7492b6a" name="Changes" comment="ChessException and ChessPosition">
+    <list default="true" id="c2e316ee-0efd-409f-8c15-025ee7492b6a" name="Changes" comment="Terminal Colors">
+      <change beforePath="$PROJECT_DIR$/src/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boardgame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705924565612</updated>
       <workItem from="1705924569119" duration="9572000" />
-      <workItem from="1706012250945" duration="9825000" />
+      <workItem from="1706012250945" duration="13112000" />
     </task>
     <task id="LOCAL-00001" summary="Board UI and Firsts tests of position">
       <created>1706013792633</created>
@@ -78,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706044110124</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Terminal Colors">
+      <created>1706105601384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706105601384</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +99,7 @@
     <MESSAGE value="Board UI and Firsts tests of position" />
     <MESSAGE value="Add Throws and test some positions" />
     <MESSAGE value="ChessException and ChessPosition" />
-    <option name="LAST_COMMIT_MESSAGE" value="ChessException and ChessPosition" />
+    <MESSAGE value="Terminal Colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terminal Colors" />
   </component>
 </project>
