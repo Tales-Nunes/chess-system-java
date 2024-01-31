@@ -5,10 +5,8 @@ import java.util.stream.Collectors;
 import boardgame.Board;
 import boardgame.Piece;
 import boardgame.Position;
-import chess.pieces.Bishop;
-import chess.pieces.King;
-import chess.pieces.Pawn;
-import chess.pieces.Rook;
+import chess.pieces.*;
+
 public class ChessMatch {
     private int turn;
     private Color currentPlayer;
@@ -200,5 +198,10 @@ public class ChessMatch {
 
         placeNewPiece('c', 2, new Bishop(board, Color.WHITE));
         placeNewPiece('c', 6, new Bishop(board, Color.BLACK));
+
+        placeNewPiece('e', 2, new Knight(board, Color.WHITE));
+        placeNewPiece('d', 7, new Knight(board, Color.BLACK));
+
+
     }
 }
