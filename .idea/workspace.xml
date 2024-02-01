@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2e316ee-0efd-409f-8c15-025ee7492b6a" name="Changes" comment="Bishop add">
-      <change afterPath="$PROJECT_DIR$/src/chess/pieces/Knight.java" afterDir="false" />
+    <list default="true" id="c2e316ee-0efd-409f-8c15-025ee7492b6a" name="Changes" comment="Knight add">
+      <change afterPath="$PROJECT_DIR$/src/chess/pieces/Queen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +74,7 @@
       <workItem from="1706315379822" duration="154000" />
       <workItem from="1706530751130" duration="7241000" />
       <workItem from="1706633776162" duration="6144000" />
-      <workItem from="1706703935083" duration="10187000" />
+      <workItem from="1706703935083" duration="11489000" />
     </task>
     <task id="LOCAL-00001" summary="Board UI and Firsts tests of position">
       <created>1706013792633</created>
@@ -188,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706725803905</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Knight add">
+      <created>1706726194508</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1706726194508</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +216,8 @@
     <MESSAGE value="Check Logic" />
     <MESSAGE value="CheckMate Logic" />
     <MESSAGE value="Bishop add" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bishop add" />
+    <MESSAGE value="Knight add" />
+    <option name="LAST_COMMIT_MESSAGE" value="Knight add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
